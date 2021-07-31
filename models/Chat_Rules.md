@@ -3,17 +3,18 @@
 ## Model
 
 Comments must be: [True, Necessary, Kind, Passionate]
-X is how many you expect from the list
-Y is how many can break before you enforce rules
 
-x=1: Space for kids
-x=2: Space for teens
-x=3: Space for adults
-x=4: Space for rationalists
-y=0: Safe Space
-y=1: Space for learners and intersections of culture
-y=2: Barely moderated for the age group
-y=3: Adult Chaos
+- X is how many you expect from the list
+- Y is how many can break before you enforce rules
+
+- x=1: Space for kids
+- x=2: Space for teens
+- x=3: Space for adults
+- x=4: Space for rationalists
+- y=0: Safe Space
+- y=1: Space for learners and intersections of culture
+- y=2: Barely moderated for the age group
+- y=3: Adult Chaos
 
 ## Explaination
 
