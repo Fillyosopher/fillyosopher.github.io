@@ -1,6 +1,6 @@
-# Positions and Projects
+# Fillyosopher
 
-## Blog Stuff
+## My Models
 
 - [Snuggling New People](models/Snuggling_New_People.md)
 - [Chat Rules](models/Chat_Rules.md)
