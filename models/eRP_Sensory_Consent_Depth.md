@@ -9,7 +9,7 @@
 5. I have consent to shallowly describe how the person reacts or feels due to my actions, eg "I penetrate you and the stretch feels achy and wonderful"
 6. I have consent to deeply describe, in loose terms, how the other person's body reacts and mind thinks. eg "The constant pressure making you wetter by the minute", "you can't help thinking about X"
 
-Notice, as you move up the scale, it becomes more common (but not required) for the depths levels of participants to differ. The more passive partner(s) often stays back a few stages from the more active partner(s), and this is even more noticable in D/s scenes.(edited)
+Notice, as you move up the scale, it becomes more common (but not required) for the depths levels of participants to differ. The more passive partner(s) often stays back a few stages from the more active partner(s), and this is even more noticable in D/s scenes.
 
 ## Subbing: going below 1 Consent Depth
 
